@@ -1,0 +1,6 @@
+1. direct
+
+cd "C:\Users\Server Pajak\Desktop\Otomatisasi Faktur"
+python generate_faktur.py
+
+lalu tekan enter
